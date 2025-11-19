@@ -9,7 +9,7 @@ Convolutional Neural Network (CNN) model for real-time facial expression recogni
 
 3. Visualization of training metrics, confusion matrices, and prediction probabilities
 
-# Features
+## Features
 
 1. CNN-based model for emotion recognition
 
@@ -23,7 +23,7 @@ Convolutional Neural Network (CNN) model for real-time facial expression recogni
 
 6. Emotion probability bar chart for understanding model confidence
 
-# Requirements
+## Requirements
 
 Python 3.8+, 
 TensorFlow / Keras, 
@@ -32,7 +32,7 @@ NumPy,
 Matplotlib, 
 Scikit-learn
 
-# Sample prediction grid
+## Sample prediction grid
 
 ✅ Green = Correct Prediction
 
@@ -40,7 +40,7 @@ Scikit-learn
 
 <img width="1069" height="641" alt="image" src="https://github.com/user-attachments/assets/dba26ee1-9ef0-4703-a518-9451c168cca9" />
 
-Emotion probability bar chart
+## Emotion probability bar chart
 
 <img width="1049" height="388" alt="image" src="https://github.com/user-attachments/assets/46956658-4fa5-4e58-8978-5842d03d3691" />
 
