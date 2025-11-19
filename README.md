@@ -29,11 +29,11 @@ Features
 
 Requirements
 
-Python 3.8+
-TensorFlow / Keras
-OpenCV
-NumPy
-Matplotlib
+Python 3.8+, 
+TensorFlow / Keras, 
+OpenCV, 
+NumPy, 
+Matplotlib, 
 Scikit-learn
 
 
