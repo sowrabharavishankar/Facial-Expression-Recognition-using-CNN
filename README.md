@@ -44,6 +44,9 @@ Scikit-learn
 
 <img width="1049" height="388" alt="image" src="https://github.com/user-attachments/assets/46956658-4fa5-4e58-8978-5842d03d3691" />
 
+<img width="2096" height="764" alt="image" src="https://github.com/user-attachments/assets/bf56e869-ce61-47aa-9cde-87325f134224" />
+
+
 
 
 
