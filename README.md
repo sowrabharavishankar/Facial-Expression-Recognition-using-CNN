@@ -30,15 +30,10 @@ Features
 Requirements
 
 Python 3.8+
-
 TensorFlow / Keras
-
 OpenCV
-
 NumPy
-
 Matplotlib
-
 Scikit-learn
 
 
