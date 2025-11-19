@@ -1,7 +1,7 @@
 # Facial-Expression-Recognition-using-CNN
 Convolutional Neural Network (CNN) model for real-time facial expression recognition. The model can detect emotions such as angry, disgust, fear, happy, neutral, sad, and surprise from live webcam input or pre-labeled images. This project is created to explore deep learning applications in computer vision. The main goal was to build a CNN that can identify emotions from facial expressions in both static images and real-time webcam streams. The model was trained on a dataset of grayscale facial images and can classify seven common emotions.
 
-#The project includes:
+# The project includes
 
 1. Training a CNN on labeled facial expression images
 
@@ -9,7 +9,7 @@ Convolutional Neural Network (CNN) model for real-time facial expression recogni
 
 3. Visualization of training metrics, confusion matrices, and prediction probabilities
 
-Features
+# Features
 
 1. CNN-based model for emotion recognition
 
@@ -23,7 +23,7 @@ Features
 
 6. Emotion probability bar chart for understanding model confidence
 
-Requirements
+# Requirements
 
 Python 3.8+, 
 TensorFlow / Keras, 
@@ -32,7 +32,7 @@ NumPy,
 Matplotlib, 
 Scikit-learn
 
-Sample prediction grid
+# Sample prediction grid
 
 ✅ Green = Correct Prediction
 
